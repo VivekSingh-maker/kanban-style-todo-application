@@ -200,8 +200,6 @@ Project Link
 
 GitHub Repo: https://github.com/VivekSingh-maker/kanban-style-todo-application.git
 
-Hosted URL: https://kanban-style-todo-applicationfrontend.vercel.app/tasks/list
-
 Official Documents Link
 
 npmjs Docs: https://www.npmjs.com/
